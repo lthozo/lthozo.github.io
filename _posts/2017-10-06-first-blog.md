@@ -11,7 +11,7 @@ Apenas testando! :)
 
 Obrigado!
 
-Leonardo Thozo
-Cloud Architect
+Leonardo Thozo<br/>
+Cloud Architect<br/>
 Email: leonardo@vertare.com.br
 Site: http://leonardothozo.com
