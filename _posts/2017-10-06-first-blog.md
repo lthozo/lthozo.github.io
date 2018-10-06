@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Hello World
+title: Hello World:)
 ---
-
 
 <div class="message">
   Nossa, mais um blog sobre soluções em nuvem?
