@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Leonardo Thozo
 tagline:             'Cloud Architect'
-description:         'Um blog pessoal para falar de nuvems'
+description:         'Um blog sobre MS Azure'
 url:                 lthozo.github.io
 baseurl:             ''
 paginate:            5
