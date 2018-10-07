@@ -3,6 +3,11 @@ layout: page
 title: About
 ---
 
+## Projeto leonardothozo.com
+
+Esse site foi criado para reunir estudos sobre o [MS Azure](http://www.azure.com)
+
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
